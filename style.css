@@ -18,7 +18,7 @@ header{
 }
 
 .texto{
-    height: 100vh;
+    height: 90vh;
     background-image: linear-gradient(120deg, rgba(0, 0, 0, 1) 0%, rgb(188, 188, 188) 100%);
     background-repeat: no-repeat;
     background-size: cover;
@@ -71,5 +71,6 @@ div{
     height: 100%;
 
 }
+
 
 
